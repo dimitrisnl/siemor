@@ -1,7 +1,7 @@
 # Change Log
-All notable changes to the "smell-the-flowers-bro" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+All notable changes to the "Siemor" extension will be documented in this file.
 
-## [Unreleased]
-- Initial release
+## [0.0.1]
+
+* Initial release

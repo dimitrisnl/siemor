@@ -1,19 +1,22 @@
 {
-  "name": "friday-coffee",
-  "displayName": "Friday Coffee",
-  "description": "An everyday dark theme, but mostly for Fridays with Coffee",
+  "name": "siemor",
+  "displayName": "Siemor",
+  "description": "A theme for closers",
   "version": "0.0.1",
   "publisher": "dnlytras",
+  "author": "Dimitrios Lytras <dnlytras@gmail.com>",
   "engines": {
-    "vscode": "^1.21.0"
+    "vscode": "^1.14.0"
   },
+  "icon": "assets/icon.png",
   "categories": ["Themes"],
+  "keywords": ["pink", "dark", "cool", "fresh"],
   "contributes": {
     "themes": [
       {
-        "label": "Friday Coffee",
+        "label": "Siemor",
         "uiTheme": "vs-dark",
-        "path": "./themes/Friday Coffee-color-theme.json"
+        "path": "./themes/Siemor-color-theme.json"
       }
     ]
   }

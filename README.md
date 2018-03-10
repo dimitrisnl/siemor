@@ -1,9 +1,11 @@
-# Friday Coffee
+# Siemor
 
 Under Contruction VS Code theme
 
-### Colors
+### Palette
 
 ![palette](assets/palette.png)
+
+### In Action
 
 ![screenshot](assets/demo.png)
