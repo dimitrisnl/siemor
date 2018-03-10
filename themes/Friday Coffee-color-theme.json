@@ -310,6 +310,13 @@
       "settings": {
         "foreground": "#91adc2"
       }
+    },
+    {
+      "name": "Brances",
+      "scope": "meta.brace",
+      "settings": {
+        "foreground": "#ffeec0"
+      }
     }
   ],
   "colors": {
