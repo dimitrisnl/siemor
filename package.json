@@ -1,25 +1,31 @@
 {
-  "name": "siemor",
-  "displayName": "Siemor",
-  "description": "A theme for closers",
-  "version": "0.0.1",
-  "publisher": "dnlytras",
-  "author": "Dimitrios Lytras <dnlytras@gmail.com>",
-  "repository": "https://github.com/DimitrisNL/siemor",
-
-  "engines": {
-    "vscode": "^1.14.0"
-  },
-  "icon": "assets/icon.png",
-  "categories": ["Themes"],
-  "keywords": ["pink", "dark", "cool", "fresh"],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Siemor",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Siemor-color-theme.json"
-      }
-    ]
-  }
+    "name": "siemor",
+    "displayName": "Siemor",
+    "description": "A theme for closers",
+    "version": "0.0.2",
+    "publisher": "dnlytras",
+    "author": "Dimitrios Lytras <dnlytras@gmail.com>",
+    "repository": "https://github.com/DimitrisNL/siemor",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "icon": "assets/icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "pink",
+        "dark",
+        "cool",
+        "fresh"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Siemor",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Siemor-color-theme.json"
+            }
+        ]
+    }
 }

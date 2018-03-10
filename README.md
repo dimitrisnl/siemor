@@ -1,6 +1,6 @@
 # Siemor
 
-Under Contruction VS Code theme
+A theme for closers
 
 ### Palette
 
