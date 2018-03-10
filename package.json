@@ -1,0 +1,22 @@
+{
+    "name": "friday-coffee",
+    "displayName": "Friday Coffee",
+    "description": "An everyday dark theme, but mostly for Fridays with Coffee",
+    "version": "0.0.1",
+    "publisher": "dnlytras",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Friday Coffee",
+                "uiTheme": "vs",
+                "path": "./themes/Friday Coffee-color-theme.json"
+            }
+        ]
+    }
+}
