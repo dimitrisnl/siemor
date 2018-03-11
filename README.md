@@ -1,7 +1,5 @@
 # Siemor
 
-![screenshot](assets/icon.png)
-
 ## A theme for closers
 
 ### Installation
