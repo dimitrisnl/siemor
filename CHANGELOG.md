@@ -2,6 +2,12 @@
 
 All notable changes to the "Siemor" extension will be documented in this file.
 
+## [0.2.0]
+
+### Changed
+
+* Better Typescript support
+
 ## [0.1.0]
 
 ### Changed
