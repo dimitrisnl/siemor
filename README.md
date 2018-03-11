@@ -1,16 +1,22 @@
 # Siemor
 
-A theme for closers
+![screenshot](assets/icon.png)
+
+## A theme for closers
+
+### Installation
+
+```
+  View -> Command Palette or hit Ctrl+Shift+P
+  Write Install Extension
+  Write 'siemor'
+  Select & go wild with it
+```
 
 ### In Action
 
-![screenshot](assets/demo1.png)
+![screenshot](assets/screen.png)
 
-![screenshot](assets/demo2.png)
+### Licence
 
-### To Do
-
-* [ ] Modifications for JSX
-* [ ] Modifications for Typescript
-* [ ] Modifications for Python
-* [x] Reconsider brackets color
+MIT
