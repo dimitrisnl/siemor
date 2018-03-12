@@ -1,14 +1,24 @@
 # Siemor
 
-## A theme for closers
+A theme for closers
 
 ### Installation
 
 ```
-  View -> Command Palette or hit Ctrl+Shift+P
-  Write Install Extension
-  Write 'siemor'
-  Select & go wild with it
+- View -> Command Palette or hit Ctrl+Shift+P
+- Type 'Install Extension'
+- Type 'siemor'
+- Select & install
+- Reload
+```
+
+### Activation
+
+```
+- View -> Command Palette or hit Ctrl+Shift+P
+- Type 'Color Theme'
+- Find Siemor
+- Select it
 ```
 
 ### In Action
