@@ -2,6 +2,12 @@
 
 All notable changes to the "Siemor" extension will be documented in this file.
 
+## [0.3.4]
+
+### Fixed JSON error
+
+* JSON format
+
 ## [0.3.2]
 
 ### Updated
