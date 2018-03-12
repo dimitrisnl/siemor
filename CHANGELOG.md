@@ -2,6 +2,17 @@
 
 All notable changes to the "Siemor" extension will be documented in this file.
 
+## [0.3.0]
+
+### Updated
+
+* Sidebar Foreground
+* Error messages
+* Badges
+* Whitespaces
+* Indent Guides
+* Screens
+
 ## [0.2.2]
 
 * Updated ReadMe
