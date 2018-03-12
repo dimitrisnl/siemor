@@ -2,6 +2,13 @@
 
 All notable changes to the "Siemor" extension will be documented in this file.
 
+## [0.3.1]
+
+### Updated
+
+* Default Foreground
+* Terminal inactive foreground
+
 ## [0.3.0]
 
 ### Updated
