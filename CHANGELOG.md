@@ -2,11 +2,19 @@
 
 All notable changes to the "Siemor" extension will be documented in this file.
 
+## [0.3.5]
+
+### Updated
+
+* Remove the pink theme while matching brackets
+* Improved list's active item background
+* Made Object keys & JSON color more prominent
+
 ## [0.3.4]
 
-### Fixed JSON error
+### Updated
 
-* JSON format
+* Fixed JSON format
 
 ## [0.3.2]
 

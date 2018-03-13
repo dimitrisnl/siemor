@@ -23,7 +23,7 @@ A theme for closers
 
 ### In Action
 
-![screenshot](assets/screen2.png)
+![screenshot](assets/screen.png)
 
 ### Licence
 
