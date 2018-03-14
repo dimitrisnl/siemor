@@ -1,4 +1,4 @@
-# Siemor ![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/dnlytras.siemor.svg)
+# Siemor [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/dnlytras.siemor.svg)]
 
 A theme for closers
 
