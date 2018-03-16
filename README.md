@@ -1,6 +1,6 @@
 # Siemor
 
-[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/dnlytras.siemor.svg)](https://marketplace.visualstudio.com/items?itemName=dnlytras.siemor/)
+[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/dnlytras.siemor.svg)](https://marketplace.visualstudio.com/items?itemName=dnlytras.siemor)
 
 A theme for closers
 
