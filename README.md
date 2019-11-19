@@ -3,7 +3,7 @@
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/dnlytras.siemor.svg)](https://marketplace.visualstudio.com/items?itemName=dnlytras.siemor)
 [![Twitter: dnlytras](https://img.shields.io/twitter/follow/dnlytras.svg?style=social)](https://twitter.com/dnlytras)
 
-> The dark VSCode theme you're looking for
+> The dark VSCode theme you've been looking for
 
 
 ## 🚀 Usage
