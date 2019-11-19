@@ -1,3 +1,11 @@
+## 2.0.0 (2019-11-19)
+
+* Update layout colors ([5a92aa9](https://github.com/DimitrisNL/siemor/commit/5a92aa9))
+* Update metadata ([e086c81](https://github.com/DimitrisNL/siemor/commit/e086c81))
+* Wording updates ([97c4969](https://github.com/DimitrisNL/siemor/commit/97c4969))
+
+
+
 <a name="1.0.0"></a>
 ## 1.0.0 (2019-05-30)
 
