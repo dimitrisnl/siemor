@@ -1,7 +1,7 @@
 {
   "name": "siemor",
   "displayName": "Siemor",
-  "description": "A theme for closers",
+  "description": "The dark VSCode theme you're looking for",
   "version": "1.0.0",
   "publisher": "dnlytras",
   "author": "Dimitrios Lytras <dnlytras@gmail.com>",
@@ -14,8 +14,9 @@
     "Themes"
   ],
   "keywords": [
-    "pink",
     "dark",
+    "onedark",
+    "oceanic",
     "cool",
     "fresh"
   ],
