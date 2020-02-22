@@ -1,3 +1,9 @@
+## 2.1.0 (2020-02-22)
+
+* Add full-dark theme ([38df4b2](https://github.com/DimitrisNL/siemor/commit/38df4b2))
+
+
+
 ## 2.0.0 (2019-11-19)
 
 * Update layout colors ([5a92aa9](https://github.com/DimitrisNL/siemor/commit/5a92aa9))
