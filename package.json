@@ -26,6 +26,11 @@
         "label": "Siemor",
         "uiTheme": "vs-dark",
         "path": "./themes/Siemor-color-theme.json"
+      },
+      {
+        "label": "Siemor Full Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Siemor-full-dark-color-theme.json"
       }
     ]
   }

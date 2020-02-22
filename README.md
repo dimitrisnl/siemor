@@ -1,10 +1,10 @@
 # Welcome to siemor 👋
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/dnlytras.siemor.svg)](https://marketplace.visualstudio.com/items?itemName=dnlytras.siemor)
 [![Twitter: dnlytras](https://img.shields.io/twitter/follow/dnlytras.svg?style=social)](https://twitter.com/dnlytras)
 
 > The dark VSCode theme you've been looking for
-
 
 ## 🚀 Usage
 
@@ -19,7 +19,8 @@ Alternatively, you install it from the [Marketplace](https://marketplace.visuals
 
 ## 👨‍🎨 In Action
 
-![screenshot](assets/screen.png)
+![screenshot](assets/dark.png)
+![screenshot](assets/default.png)
 
 ## 🤝 Contributing
 
@@ -30,9 +31,9 @@ Feel free to check [issues page](https://github.com/dimitrisnl/siemor/issues) if
 
 👤 **Dimitrios Lytras <dnlytras@gmail.com>**
 
-* Website: https://dimitrioslytras.com
-* Twitter: [@dnlytras](https://twitter.com/dnlytras)
-* Github: [@dimitrisnl](https://github.com/dimitrisnl)
+- Website: https://dimitrioslytras.com
+- Twitter: [@dnlytras](https://twitter.com/dnlytras)
+- Github: [@dimitrisnl](https://github.com/dimitrisnl)
 
 ## 📝 License
 
